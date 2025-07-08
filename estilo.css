@@ -1,0 +1,110 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: darkcyan;
+    text-align: center;
+    font-size: 50px;
+}
+
+p{
+    font-size: 25px;
+    text-align: justify;
+}
+
+li{
+    margin-top: 20px;
+}
+
+#imagem{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    padding: 70px;
+    margin-left: 100px;
+}
+#imag{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    padding: 70px;
+}
+
+#image{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    padding: 70px;
+}
+
+table{
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td{
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    font-weight: bolder;
+
+}
+
+img{
+    width: 400px;
+    height: auto;
+    border-radius: 8px;
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    color: darkslategray;
+}
+
+a{
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
+
+#sitesite{
+    font-size: 20px;
+}
+
+#site:hover{
+    color: black;
+
+}
+
+#site{
+    color: blue;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: 40px;
+    border-radius: 5%;
+    background-color: rgb(118, 138, 138);
+    color: rgb(11, 13, 29);
+    border: 2px solid black;
+    cursor: pointer;
+}
+button:hover{
+    transform: scale(1.05);
+}
+
+#mensg{
+    text-align: center;
+    padding-top: 5px;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
